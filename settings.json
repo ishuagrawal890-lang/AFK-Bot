@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "INDIA_SMP_S2.aternos.me",
-    "port": 62951,
+    "ip": "eclipsemc.playwithbao.com",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
